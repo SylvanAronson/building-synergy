@@ -41,8 +41,8 @@ The following are examples of possible synergies:
 
 ### Both/in-between
 
-- real estate offices!!
-- janitorial services!!
+- real estate offices!!!!!
+- janitorial services!!!!!
 
 ### Other tenants?
 

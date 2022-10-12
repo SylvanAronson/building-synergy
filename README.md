@@ -30,18 +30,18 @@ The following are examples of possible synergies:
 ### Offices that provide a public service
 
 -
--
--
+
+-The post office
 
 ### Offices for support of other offices
 
--
+- Cleaning company
 -
 -
 
 ### Both/in-between
 
--
+- 
 -
 
 ### Other tenants?
@@ -53,6 +53,6 @@ What is provided as part of the building itself, or by building
 management? These are often so common that they're easy to overlook,
 until something goes wrong with them.
 
--
+- 
 -
 -

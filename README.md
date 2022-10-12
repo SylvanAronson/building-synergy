@@ -29,7 +29,7 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
--
+
 -
 -
 
@@ -41,8 +41,8 @@ The following are examples of possible synergies:
 
 ### Both/in-between
 
--
--
+- real estate offices
+- janitorial services
 
 ### Other tenants?
 

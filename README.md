@@ -28,8 +28,9 @@ The following are examples of possible synergies:
 
 
 ### Offices that provide a public service
-
--
+-Post office
+-Department of Justice building
+-Puget Sound Energy
 -
 -
 
